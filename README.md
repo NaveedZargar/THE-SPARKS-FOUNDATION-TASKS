@@ -10,7 +10,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
-_Please click on the images on right side to view my solution._
+_Please click on the image on right side to view my solution._
 
 1. Predict the percentage of marks of an student based on the number of study hours.
 1. This is a simple linear regression task as it involves just 2 variables.
