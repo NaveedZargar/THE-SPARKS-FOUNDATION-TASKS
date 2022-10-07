@@ -6,8 +6,6 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month ( October-2022 )
 - **Internship Type** - Work from Home
 
-In this internship, we were provided a total of 6 Tasks
-
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-1_Linear_Regression.ipynb)
 
 
